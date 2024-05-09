@@ -12,7 +12,7 @@ int main() {
 
     double letterFreq[26] = {};
     double totalLetters = 0;
-
+     
     string filename;
     cout << "Enter the name of the file: ";
     cin >> filename;
